@@ -45,7 +45,7 @@ accuracy
 ```
 
 ## Output:
-```
+
 Data.head():
 ![image](https://user-images.githubusercontent.com/79306169/174664276-b63f4010-8453-4611-8751-b766ba84a60c.png)
 ## Data.info():
@@ -56,7 +56,6 @@ Data.head():
 ![image](https://user-images.githubusercontent.com/79306169/174664340-29640db9-3e75-4fa1-ab8e-1cc619282449.png)
 ## Accuracy:
 ![image](https://user-images.githubusercontent.com/79306169/174664370-97053896-6848-4dac-810e-72df037aeee3.png)
-```
 
 
 
